@@ -11,7 +11,7 @@ import SwiftUI
 struct SlidingGameApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NumberPuzzleView()
         }
     }
 }
